@@ -1,4 +1,6 @@
-### Hi there 👋
+```java
+this.allVisitors.forEach(Actions::greet);
+```
 
 <!--
 **alessandro-marcantoni/alessandro-marcantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
