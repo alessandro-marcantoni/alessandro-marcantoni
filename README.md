@@ -17,7 +17,7 @@ this.allVisitors.forEach(Actions::greet);
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=alessandro-marcantoni&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-marcantoni&langs_count=10&layout=compact&count_private=false&hide=html,css,scss,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-marcantoni&langs_count=10&layout=compact&count_private=false&hide=html,css,scss,jupyter%20notebook&exclude_repo=whiteball,oop-ballblast)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
