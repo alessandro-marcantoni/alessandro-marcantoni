@@ -1,6 +1,19 @@
-```java
-this.allVisitors.forEach(Actions::greet);
+```scala
+case class Person(firstname: String, lastname: String)
+
+def greet(p: Person) = say(s"Hello, ${p.firstname}!")
+
+everyone.foreach(greet(_))
 ```
+
+Hello 👋 I'm a Computer Science and Engineering student at Alma Mater Studiorum - University of Bologna.
+
+My main interests right now are:
+
+- functional programming in `Scala`
+- multi-agent systems (__MAS__) and `JaCaMo` framework
+- digital twins
+- aggregate programming and simulation
 
 ## Contacts
 
