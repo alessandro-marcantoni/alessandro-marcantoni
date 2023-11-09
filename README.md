@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Alessandro
 
-## About Me 🤓
+## 🤓 About Me
 - Master's graduate in Computer Science and Engineering from the _University of Bologna_
 - Cloud Engineer @ _Connect Reply_, specializing in `AWS` - `Java` - `Spring`
 - Freelancing for a startup, leading a full-stack project with `Kotlin` - `Spring` - `React`
 
-## Interests 🤔
+## 🤔 Interests
 - Exploring **large-scale IoT systems**' solutions and their impact on modern technology
 - Delving into the intricacies of **functional programming** paradigms
 - Experimenting with **simulations** to model complex real-world scenarios
@@ -49,13 +49,13 @@
 
 ##
 
-## Get In Touch 🖖
+## 🖖 Get In Touch
 - LinkedIn: [Alessandro Marcantoni](https://www.linkedin.com/in/alessandro-marcantoni-6a2386172/)
 - Email: alessandro.marcantoni.98@gmail.com
 
 Feel free to reach out if you share similar interests or want to collaborate on exciting projects!
 
-## Some of my Github Stats
+## 📈 Some of my Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=alessandro-marcantoni&show_icons=true&include_all_commits=true)](https://github.com/alessandro-marcantoni/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-marcantoni&langs_count=10&layout=compact&count_private=false&hide=html,css,scss,jupyter%20notebook&exclude_repo=whiteball,oop-ballblast)](https://github.com/anuraghazra/github-readme-stats)
