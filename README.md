@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Alessandro
 
 ## About Me 🤓
-- Master's graduate in Computer Science and Engineering from the University of Bologna
-- Cloud Engineer @ Connect Reply, specializing in AWS - Java - Spring
-- Freelancing for a startup, leading a full-stack project with Kotlin - Spring - React
+- Master's graduate in Computer Science and Engineering from the _University of Bologna_
+- Cloud Engineer @ _Connect Reply_, specializing in `AWS` - `Java` - `Spring`
+- Freelancing for a startup, leading a full-stack project with `Kotlin` - `Spring` - `React`
 
 ## Interests 🤔
-- Exploring large-scale IoT systems' solutions and their impact on modern technology
-- Delving into the intricacies of functional programming paradigms
-- Experimenting with simulations to model complex real-world scenarios
-- Eager to learn more about the fascinating field of data engineering
+- Exploring **large-scale IoT systems**' solutions and their impact on modern technology
+- Delving into the intricacies of **functional programming** paradigms
+- Experimenting with **simulations** to model complex real-world scenarios
+- Eager to learn more about the fascinating field of **data engineering**
 
 ## 🧰 Languages and Tools
 
