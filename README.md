@@ -3,7 +3,7 @@
 ## 🤓 About Me
 - Master's graduate in Computer Science and Engineering from the _University of Bologna_
 - Cloud Engineer @ _Connect Reply_, specializing in `AWS` - `Java` - `Spring`
-- Freelancing for a startup, leading a full-stack project with `Kotlin` - `Spring` - `React`
+- Freelancing for a startup, leading a full-stack project with `Kotlin` - `Ktor` - `Typescript` - `React`
 
 ## 🤔 Interests
 - Exploring **large-scale IoT systems**' solutions and their impact on modern technology
