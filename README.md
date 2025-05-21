@@ -68,7 +68,7 @@ Feel free to reach out if you share similar interests or want to collaborate on 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alessandro-marcantoni&color=blueviolet&style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-marcantoni&show_icons=true&include_all_commits=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-marcantoni&show_icons=true&include_all_commits=true&theme=transparent) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-marcantoni&langs_count=10&layout=compact&count_private=false&hide=html,css,scss,jupyter%20notebook&exclude_repo=whiteball,oop-ballblast&theme=transparent)
 
